@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box; }
+    body{
+    margin: 0; }
+    .conteiner{
+    border: 1px solid black; }
+    .esquerda{
+    border: 1px solid red; }
+    .direita{
+    border: 1px solid green; }
+    .card-login{
+        border: 1px solid yellow; }
+        .nome{
+        border: 1px solid red; }
+        .senha{
+        border: 1px solid green ; }
